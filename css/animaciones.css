@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+body{
+    margin:0;
+    padding: 0;
+}
+
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+header{
+    width: 100%;
+    position: relative;
+    height: 100vh;
+    background: url("../img/fondo 1.jpg");
+}
+
+
+
+header nav{
+    display: inline-block;
+    justify-content: space-between;
+    align-items: center;
+    padding:50px;
+}
+
+header nav a{
+    color: white;
+    font-size: 20px;
+}
+
+
+
+
+
+    /* FOOTER */
+
+footer{
+    background: rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;
+    
+
+footer p{
+   color: white;
+
+}
